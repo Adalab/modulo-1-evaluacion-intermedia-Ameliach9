@@ -1,0 +1,17 @@
+
+
+
+
+.header-main{
+    width:100vw;
+    background-color: white;
+    display:flex;
+}
+
+.logo{
+    width: 155px;
+    display:flex;
+    justify-content: flex;
+    align-items: center;
+
+}
